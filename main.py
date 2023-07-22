@@ -1,8 +1,6 @@
 #import comps
 import comps.file as cfile
 import comps.registry as cregistry
-import comps.luna as cluna
-import comps.discordpy as cdiscord
 #import library
 from bs4 import BeautifulSoup
 import re
