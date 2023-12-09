@@ -1,6 +1,6 @@
 bs4==0.0.1
 lxml==4.9.3
-pyinstaller==5.13.0
+pyinstaller==5.13.1
 requests==2.26.0
 urllib3==1.26.16
 wxPython==4.2.1
